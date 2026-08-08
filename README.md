@@ -73,7 +73,7 @@ The dashboard helps identify patterns related to:
 
 📷 Dashboard Preview
 
-![Smoking Health Risk Analysis Dashboard](Dashboard_Screenshot.png)
+![Smoking Health Risk Analysis Dashboard](Risk%20Health%20Analysis%20Dashboard.png)
 
 📁 Project Files
 
